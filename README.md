@@ -1,3 +1,3 @@
-# afolino03.github.io
-resume
-![Screenshot 2024-09-22 214820](https://github.com/user-attachments/assets/ecaf5756-d668-4149-86c2-495206480615)
+# afolino03.github.io - Anthony Folino Resume
+
+![resume photo](https://github.com/user-attachments/assets/2ad1b200-c8c7-487d-b93d-8ef658f5e041)
